@@ -38,4 +38,4 @@
 
 ## Contributing
 
-  All contributions are welcome and should be done by cloning this repo and working from your own branch. Please contact me with any questions.
+  All contributions are welcome and should be done by cloning this repo and working from your own branch. Please contact me via GitHub with any questions.
