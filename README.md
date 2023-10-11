@@ -6,7 +6,7 @@
 
   This is a Content Management System (CMS) for creating and managing blog posts. Users can sign up, create, edit, and delete blog posts, leave comments, and more. The project is built following the user stories listed below.
 
-  To visit the live CMS site click [here!](#)
+  To visit the live CMS site click [here!](https://fathomless-castle-41603-a40f60df8d2d.herokuapp.com/)
 
 ## Table of Contents
 
@@ -38,10 +38,4 @@
 
 ## Contributing
 
-  All contributions are welcome and should be done with the following process:
-
-  1. Clone this repository to your local machine.
-  2. Create a new branch to work on your additions or modifications.
-  3. Commit your changes and push them to your branch.
-  4. Open a pull request on GitHub for review.
-  5. I will review your contributions and work with you to merge them into the main project.
+  All contributions are welcome and should be done by cloning this repo and working from your own branch. Please contact me with any questions.
